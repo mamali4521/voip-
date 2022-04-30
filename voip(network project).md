@@ -30,7 +30,7 @@ Quick and easy installation steps
 Naxfone Pro is the first cloud-based enterprise landline phone in Iran, which provides organizations with access to enterprise telephones without the need for equipment and servers on the Hosted PBX technology platform. This phone completely eliminates VoIP and you can use your organizational number anywhere in the country with your mobile phone, tablet, laptop and… internet, through the web panel and Nexphone mobile application.
 
 Translate to persian:
-ترجمه شده به فارسی:
+
 
 تلفن VoIP یا Voice over Internet Protocol، به تماس‌گیرندگان امکان‌پذیری و دریافت تماس تلفنی از طریق اینترنت را می‌دهد.
 
