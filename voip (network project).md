@@ -2,4 +2,4 @@
 whats is voip 
 
 
-<img width="632" alt="Screen Shot 2022-04-30 at 4 50 22 PM" src="https://user-images.githubusercontent.com/104448061/166105362-bb12fec4-c172-45aa-b479-82b46ec7746c.png">
+<img width="660" alt="Screen Shot 2022-04-30 at 5 12 27 PM" src="https://user-images.githubusercontent.com/104448061/166106096-4dfb1b49-c1fe-47c5-ae53-b5161cd56378.png">
